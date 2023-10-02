@@ -15,16 +15,18 @@
 ## My Stack:
   ### Programming Languages
   <div>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ3mq4xJcDphrmkmU7ZwbxUJN8kL2SslF6Lw&usqp=CAU" alt="Delphi Logo" width="50" height="50"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-original.svg" alt="Embedded C Logo" width="50" height="50"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java Logo" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript Logo" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP Logo" width="50" height="50"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Go Logo" width="50" height="50"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ3mq4xJcDphrmkmU7ZwbxUJN8kL2SslF6Lw&usqp=CAU" alt="Delphi Logo" width="50" height="50"/>
   </div>
 
   ### Back-end
   <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring Logo" width="50" height="50"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django Logo" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJs Logo" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" alt="NextJs Logo" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django Logo" width="50" height="50"/>
@@ -36,7 +38,12 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" alt="NextJs Logo" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma Logo" width="50" height="50"/>
   </div>  
-    
+
+  ### Mobile
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="AndroidStudio Logo" width="50" height="50"/>
+  </div>  
+  
   ### Database
   <div>
     <img src="https://firebirdsql.org/file/about/firebird-logo-500.png" alt="Firebird Logo" width="50" height="50"/>
