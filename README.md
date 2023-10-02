@@ -1,6 +1,6 @@
 ### Hello! I am Eduardo 👋
 
-- 🔭 Acting as Delphi Developer in WR2 Sistemas
+- 🔭 Acting as Developer at INMES INDUSTRIAL
 
 ## Contacts:
 
