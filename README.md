@@ -29,7 +29,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django Logo" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJs Logo" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" alt="NextJs Logo" width="50" height="50"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django Logo" width="50" height="50"/>
   </div>
   
   ### Front-end
